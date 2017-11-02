@@ -111,7 +111,7 @@ Leaf size = 0.01
 
 ![DH_Board](../images/Voxel-Leaf_Size-0-01.png)
 
-Leaf size = 0.006. Note that the pipeline for this world has identified all the objects correctly, however I chose the finer leaf size of 0.006 as it made detection for all worlds more robust:
+Below: Leaf size = 0.006. Note that the pipeline for this world has identified all the objects correctly with LEAF_SIZE = 0.01, however I chose the finer leaf size of 0.006 as it made detection for all worlds more robust:
 
 ![DH_Board](../images/Voxel-Leaf-Size-0-006.png)
 

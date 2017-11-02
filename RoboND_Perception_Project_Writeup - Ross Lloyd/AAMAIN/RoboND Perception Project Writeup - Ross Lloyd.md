@@ -256,7 +256,9 @@ if __name__ == '__main__':
 		rospy.spin()
 ```
 
-## Screenshots of accurately identified objects for all three standard test worlds:
+## RESULTS: Screenshots of accurately identified objects for all three standard test worlds:
+
+Here are some pictures of the results of the pipeline output:
 
 World 1, 100% identified (clusters shown)
 

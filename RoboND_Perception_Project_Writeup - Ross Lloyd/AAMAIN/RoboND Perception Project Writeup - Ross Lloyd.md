@@ -141,6 +141,7 @@ Next we apply plane segmentation, and can use the PCL/Table topic in RVIZ to vie
 
 ## 2. Complete Exercise 2 steps: Pipeline including clustering for segmentation implemented.  
 
+Here the aim is to create separate clusters that the pipeline will treat as separate objects:
 
 ```python
 # TODO: Euclidean Clustering

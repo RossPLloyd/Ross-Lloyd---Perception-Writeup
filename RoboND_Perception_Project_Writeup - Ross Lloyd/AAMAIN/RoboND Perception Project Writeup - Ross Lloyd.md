@@ -1,5 +1,5 @@
 
-## Project: Perception Pick & Place
+## Project: 3D Perception
 
 ---
 

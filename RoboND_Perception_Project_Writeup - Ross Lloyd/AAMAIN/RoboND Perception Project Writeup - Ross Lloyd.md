@@ -3,6 +3,11 @@
 
 ---
 
+Welcome to my writeup for the third Udacity RoboND Project, 3D Perception!
+
+The aim of the project was to learn and apply robot 3D perception techniques and implement them in a pipeline that was able to identify sets of objects in a simulated world. To do this, we needed to use filtering functions and machine learning classifier algorithms such as the Support Vector Machine. Finally the data from the identified objects was passed to a ROS Server for the pick and place function to be carried out (note actual picking / placing was an optional task which I chose not to undertake due to time constraints).
+
+In this repo can be found all required code as well as the output yaml files. Please see annotated code below for additional thought processes and information which may not be included in the attached .py documents.   
 
 ### Exercise 1, 2 and 3 pipeline implemented
 

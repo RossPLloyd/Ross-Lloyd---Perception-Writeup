@@ -1,6 +1,6 @@
 # Ross-Lloyd---Perception-Writeup
 
-Main writeup document is in the folder called AAMAIN.
+Main writeup document is in folder RoboND_Perception_Project_Writeup - Ross Lloyd/AAMAIN.
 
 All required python scripts and the output yaml files are in the main directory of the repo.
 
